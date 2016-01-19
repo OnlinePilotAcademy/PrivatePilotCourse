@@ -1,34 +1,29 @@
 hero:
-  image: "https://farm2.staticflickr.com/1561/23843210454_cb167e2d9e_o.jpg"
+  image: "https://farm2.staticflickr.com/1639/24389093661_077691f035_o.jpg"
   heading: "Private Pilot License Ground Course"
   subtitle: "The Most Comprehensive Ground Course to Achieve and Obtain Your FAA Private Pilot's License"
 
 testimonial:
   quote: "After making $1M reaching over 100,000 students with our online courses since April this year, we decided to partner with the online course hosting tool <a href='http://usefedora.com/?src=mdi-quote' target='_blank'>Fedora</a>, to develop a comprehensive course to how anyone can start from ground zero, which is where we began, to profit from their own online course."
-  person: "<strong>Eliot Arntz</strong>, <em>Co-Founder at Online School, Bitfountain.io</a></em>"
-  image: "https://d2vvqscadf4c1f.cloudfront.net/SiIUb8dRiqltbq6VVtDT_93f1547d32a37b972ec733e65c2d63e4.jpeg"
+  person: "<strong>Nima Mojdeh</strong>, <em>Founder at Online Pilot Academy, OnlinePilotAcademy.com</a></em>"
+  image: "http://en.gravatar.com/userimage/4197908/9148c5e25cf97dcc0eebee35c6d64a73.jpg?size=200"
 
 about:
   title: "About the Course"
-  first_paragraph: "<p>One of the biggest changes of our time, is the shift to online education.</p><p>Today, there is a growing number of individual “teacher entrepreneurs” organizing what they know on any topic you can imagine into making thousands or in some case over a hundred thousand dollars in income every month.</p><p>The benefits of teaching an online course are remarkable. Unlike any other form, structuring what you know in a course allows you to create a connection with your audience, whether that’s to build your own following or to promote your company.</p><p>How did this come to be? In recent years, all the parts you need to produce courses – the best practices, technology and open distribution channels – have all become available for anyone to use.</p><p><strong><span class='underline'>Million Dollar Instructor</span></strong> is the comprehensive set of video lessons that will take you behind the scenes and teach you everything you need to create and launch an online course – from the best in the industry.</p><p>Throughout, you’ll be led by John Nichols and Eliot Arntz, Founders of the independent online school Bitfountain.io. They’ll take you from their beginning to their incredible success – since April this year, John and Eliot have produced courses which have generated over $1M in revenue:</p>"
-  income_table:
-    - month: "April 2014"
-      income: "$151,319.64"
-    - month: "May 2014"
-      income: "$87,983.50"
-    - month: "June 2014"
-      income: "$210,702.39"
-    - month: "July 2014"
-      income: "$425,093.23"
-    - month: "August 2014"
-      income: "$273,656.70"
-    - month: "September 2014"
-      income: "$324,875.24"
-    - month: "October 2014"
-      income: "$196,485.45"
-    - month: "November 2014"
-      income: "?"
-  second_paragraph: "<p>They will be joined by Ankur Nagpal and Conrad Wadowski, founders of the online course hosting platform <a href='http://usefedora.com/?src=mdi-top' target='_blank'>Fedora</a> that has helped over 1,000 instructors sell online courses. Having seen 4k+ courses on their platform, they break down what makes a best-selling course stand out from the noise.</p><p>You may have a variety of goals before coming into this course – to get background on creating an online course, to create your first short course to promote your company, grow your thought leadership while making income on the side, or to learn the best practices to become a 'teacher entrepreneur.'</p><p>This course will take from scratch all the way to publishing and distributing your course, namely:</p><strong><p>Part 1: Develop your course</strong><br/>How you should pick your topic and test market demand for it. You’ll learn how to evaluate the success of your topic before investing time and energy much into producing the content. </p><p>You’ll also learn how to develop amazing content, without the need for expensive tools and software. You’ll get research and scripting techniques that will save you significant time while you’re creating content. </p> <strong><p>Part 2: Market your course</strong><br/>This section will take you into topics such as pricing your course, structuring a successful pre-launch and ultimately getting your course to people who need it most. The course will go into the details and include specific landing page templates, successful email copy and lists of people and companies who can help you bring your course to an even larger audience.</p><p>The course then dives into an exhaustive list of 20+ places all prioritized by impact, that can help instructors without any kind of audience create a successful launch. We show you how to get the best out of social media, online forums, daily deal websites, course directories, offline events, Kickstarter etc. Finally, John and Eliot share the strategies that have been vital in helping them reach their revenue goals which to date for 2014 includes over $2M in revenue.</p> <p>To round this section off, Ankur interviews 10+ other 'teacher entrepreneurs' each with their unique strengths. Some highlights from this section include:</p><p><ul><li>Learn how <b>Paul Solt</b> and <b>Justin Mitchel</b> used Kickstarter to presell 6 figures worth of online courses that had not been developed.</li><li>See how successful author <b>David Kadavy</b> converted a best-selling book into a best-selling online course.</li><li>Watch <b>Mattan Griffel</b> explain how created the #1 best selling course on Skillshare and then leveraged that into building a Y-Combinator backed company.</li><li><b>Noah Kagan</b> set an audacious goal to make $1m from a single online course. And then beat it comfortably. Learn how he did it.</li><li>30x500 co-creator, <b>Amy Hoy</b> has made $1.5m helping people create online courses. Even more impressively, her students have made over $3m following her advice.</li></ul></p><p>A total of <b>12+ experts</b> with <b>6+ hours</b> of content share their best strategies. Aside from the full-length videos, the course will include complete transcripts and summaries.</p>"
+  first_paragraph: "<p>The Best Time in Histroy to Become A Pilot is NOW!</p><p>Up until today, there has never been a better time in the history of Aviation to become a pilot. The airlines are hiring and will be hiring pilots in mass numbers as pilot retirements come in to affect in droves! The cost of flying and learing to fly is increasing year after year and to delay means only to miss the chance to get in this rewarding career path as soon as possible and increased costs.  At Online Pilot Academy our goal is to bring the theory of flight and education to you at the lowest costs possible and provide you with the best training avaiable to study and prepare for you Private Pilot's License and more at your own pace, comfort, and schedule.</p>"
+  The Route to The Cockpit:
+    - Private Pilot License:
+      Ground Course Time: "30 Days"
+    - Instrument Rating:
+      Ground Course Time: "30 Days"
+    - Comercial Pilot's License:
+      Ground Course Time: "30 Days"
+    - Certified Flight Instructor License:
+      Ground Course Time: "20 Days"
+    - Airline Transport License:
+      Ground Course Time: "$273,656.70"
+      
+  second_paragraph: "<p>You will be joined by Nima Mojdeh Certified Flight Instructor, Retired Airline Captain, and founder of Online Pilot Academy <a href='http://OnlinePilotAcademy.com'>Online Pilot Academy</a> that has helped over 100s of students gains their pilots license.</p><p>You may have a variety of goals before coming into this course – to get background on getting your Private Pilot’s License for personal flying, to obtaining the required knowledge for your Private Pilot’s License, and to continue on to other licenses required for becoming a professional airline pilot.’</p><p>This course will take from scratch all the way to passing your private pilot knowledge test and check-ride.</p><strong><p>Part 1: What it is like to become a pilot and what requirements are needed.</strong><br/>What is the status and projections of the aviation industry in America and the world.</p><p>You’ll learn all the theoretical knowledge required by FAA for your Private Pilot’s License and gain from years of experience of your instructor, Nima Mojdeh, with real world examples that will add to your understanding and comprehension of the information.</p></p>"
   call_to_action: "Notify me when this course launches"
 
 learn:
